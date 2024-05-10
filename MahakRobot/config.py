@@ -44,7 +44,7 @@ class Config(object):
 
     SPAMWATCH_API = getenv("SPAMWATCH_API", "3624487efd8e4ca9c949f1ab99654ad1e4de854f41a14afd00f3ca82d808dc8c")
     
-    SPAMWATCH_SUPPORT_CHAT = getenv("SPAMWATCH_SUPPORT_CHAT", "h_cc_help")
+    SPAMWATCH_SUPPORT_CHAT = getenv("SPAMWATCH_SUPPORT_CHAT", "God_Ravana")
     
     WALL_API = getenv("WALL_API", "2455acab48f3a935a8e703e54e26d121")
     
