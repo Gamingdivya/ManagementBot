@@ -14,13 +14,13 @@ class Config(object):
    
     TOKEN = getenv("TOKEN", None)
   
-    OWNER_ID = getenv("OWNER_ID", "6195725562") 
+    OWNER_ID = getenv("OWNER_ID", "6927241780") 
 
-    SUDO_USER = getenv("SUDO_USER", "6195725562") 
+    SUDO_USER = getenv("SUDO_USER", "6927241780") 
 
-    OWNER_USERNAME = ("OWNER_USERNAME", "loco_x_Pilot")
+    OWNER_USERNAME = ("OWNER_USERNAME", "GOD_R4V4N")
     
-    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "the_friendz")
+    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "Ravan_Lankaa")
    
     START_IMG = getenv("START_IMG", "https://graph.org/file/eaa3a2602e43844a488a5.jpg")
 
@@ -34,7 +34,7 @@ class Config(object):
    
     LOG_CHANNEL = getenv("LOG_CHANNEL", "-1001852000392")
    
-    BOT_USERNAME = getenv("BOT_USERNAME" , "avishaBot")
+    BOT_USERNAME = getenv("BOT_USERNAME" , "MahakXbot")
    
     DATABASE_URL = getenv("DATABASE_URL", "postgres://bnastfeg:SSeKbnIRV5dkO_2ewW10Y0EOuvRVgo1f@kesavan.db.elephantsql.com/bnastfeg")
 
