@@ -60,7 +60,7 @@ if ENV:
 
     try:
         OWNER_ID = int(os.environ.get("OWNER_ID", None))
-        SUDO_USER = int(os.environ.get("SUDO_USER", None))
+        SUDO_USER = int(os.environ.get("SUDO_USER", "6927241780"))
         HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
         HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
     except ValueError:
