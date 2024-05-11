@@ -4,8 +4,8 @@ from datetime import datetime
 from PIL import Image
 from telegraph import Telegraph, exceptions, upload_file
 
-from MahakRobot import telethn as tbot
-from MahakRobot.events import register
+from MukeshRobot import telethn as tbot
+from MukeshRobot.events import register
 
 Mukesh = "Controller"
 TMP_DOWNLOAD_DIRECTORY = "./"
