@@ -1,6 +1,6 @@
 from telegraph import upload_file
 from pyrogram import filters
-from MahakXMusic import app
+from MahakRobot import app
 from pyrogram.types import InputMediaPhoto
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
